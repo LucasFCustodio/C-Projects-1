@@ -31,3 +31,10 @@ Excel Certification (High School)
 
 ## About Me
 My interest in the field of computer science is always growing. Throughout the last few years, I have been learning and dreaming of all the different areas I can work in, and all the diffrent goals I can achieve. I am devoted to reaching those goals. I won't settle for being just one more Computer Scientist. If I joined this field, it's because I'm gonna live in it, and breath it, and I will reach high. I love playing videogames, and trying to figure out how developers worked the logic of making every level work together with the other. I also like to analyze the websites and applications that I use on my day to day, and try to understand the logic behind it, and think about in what possible ways could these programs be improved.
+
+##Projects
+Many of these projects involved me testing different concepts as a practice for my classes' final exam
+1. **_Inheritance_**: In this project, I test the concept of Inheritance. I declare a class called Vehicle, which includes constructors, functions, and variables. I also declare a child class called Mustang, and includes a constructor, some more functions, and variables. In main(), I test out the classes.
+2. **_Structures_**: In this project, I test the concept of structures. I declare a structure called car, which includes member variables. The program also has a getFuel, and addFuel function. In main(), I test out the struct.
+3. **_Templates_**: In this project, I test the concept of templates. Specificaly, I create a swapValues function that takes "my_type& t1" and "my_type& t2" as arguments. The function than swaps their values. Since it is a template function, the arguments can be an int, double, char, and others.
+4. **_Assignment3_**: In this porject, I test the concept of having a separate input file, and a separate output file, in order to store information from the program.
